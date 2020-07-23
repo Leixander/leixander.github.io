@@ -1,7 +1,7 @@
-Rank	Artist - Album							Total Score	1st	2nd	3rd	4th	5th	6th	7th	8th	9th	10th
-1	Janelle Monáe - Dirty Computer							995	32	26	20	12	10	9	13	7	6	7
-2	Kacey Musgraves - Golden Hour							954	48	14	17	9	9	5	5	12	4	6
-3	Ariana Grande - Sweetener							819	16	14	21	13	14	13	12	12	13	15
+Rank	Artist - Album							|Total Score	1st	2nd	3rd	4th	5th	6th	7th	8th	9th	10th
+1	Janelle Monáe - Dirty Computer							|995	32	26	20	12	10	9	13	7	6	7
+2	Kacey Musgraves - Golden Hour							|954	48	14	17	9	9	5	5	12	4	6
+3	Ariana Grande - Sweetener							|819	16	14	21	13	14	13	12	12	13	15
 4	Sophie - Oil Of Every Pearl's Un-Insides							540	10	17	8	13	6	6	7	6	7	6
 5	Troye Sivan - Bloom							498	5	9	10	9	14	9	9	9	13	6
 6	Robyn - Honey							493	14	10	8	8	7	11	6	2	5	6
