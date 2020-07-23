@@ -1,7 +1,12 @@
-#Trivia
+# Trivia
 
-**432** Different albums/EPs/mixtapes sent.
-**301** r/popheads members participated.
+* **432** Different albums/EPs/mixtapes sent.
+
+* **301** r/popheads members participated.
+
+# List
+
+---
 
 | Rank | Artist - Album | Total Score | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | 10th |
 | :----: | ----- | :-----------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
