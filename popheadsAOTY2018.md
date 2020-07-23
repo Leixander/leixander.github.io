@@ -1,3 +1,8 @@
+#Trivia
+
+**432** Different albums/EPs/mixtapes sent.
+**301** r/popheads members participated.
+
 | Rank | Artist - Album | Total Score | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | 10th |
 | :----: | ----- | :-----------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | Janelle Monáe - Dirty Computer | **995** | 32 | 26 | 20 | 12 | 10 | 9 | 13 | 7 | 6 | 7 |
