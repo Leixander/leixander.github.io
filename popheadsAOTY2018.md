@@ -1,23 +1,23 @@
-Rank	Artist - Album							|Total Score	1st	2nd	3rd	4th	5th	6th	7th	8th	9th	10th
-1	Janelle Monáe - Dirty Computer							|995	32	26	20	12	10	9	13	7	6	7
-2	Kacey Musgraves - Golden Hour							|954	48	14	17	9	9	5	5	12	4	6
-3	Ariana Grande - Sweetener							|819	16	14	21	13	14	13	12	12	13	15
-4	Sophie - Oil Of Every Pearl's Un-Insides							540	10	17	8	13	6	6	7	6	7	6
-5	Troye Sivan - Bloom							498	5	9	10	9	14	9	9	9	13	6
+Rank	Artist - Album							Total Score	1st	2nd	3rd	4th	5th	6th	7th	8th	9th	10th
+1	Janelle Monáe - Dirty Computer					995	32	26	20	12	10	9	13	7	6	7
+2	Kacey Musgraves - Golden Hour					954	48	14	17	9	9	5	5	12	4	6
+3	Ariana Grande - Sweetener					819	16	14	21	13	14	13	12	12	13	15
+4	Sophie - Oil Of Every Pearl's Un-Insides			540	10	17	8	13	6	6	7	6	7	6
+5	Troye Sivan - Bloom						498	5	9	10	9	14	9	9	9	13	6
 6	Robyn - Honey							493	14	10	8	8	7	11	6	2	5	6
-7	The 1975 - A Brief Inquiry Into Online Relationships							459	14	9	9	11	6	3	2	5	5	5
-8	Mitski - Be The Cowboy							454	7	18	8	6	6	8	4	5	2	5
-9	Kali Uchis - Isolation							382	10	3	9	6	6	9	6	4	9	6
-10	Florence + The Machine - High As Hope							304	4	3	8	8	5	5	3	9	9	5
-11	Kids See Ghosts - Kids See Ghosts							299	7	12	3	5	3	4	2	3	2	3
-12	Lady Gaga & Bradley Cooper - A Star Is Born							270	3	7	6	4	3	6	7	4	4	5
-13	Mariah Carey - Caution							261	2	7	7	5	2	4	6	7	2	6
-14	Kim Petras - Turn Off The Light, Vol. 1							242	2	7	5	3	6	5	3	5	4	2
+7	The 1975 - A Brief Inquiry Into Online Relationships		459	14	9	9	11	6	3	2	5	5	5
+8	Mitski - Be The Cowboy						454	7	18	8	6	6	8	4	5	2	5
+9	Kali Uchis - Isolation						382	10	3	9	6	6	9	6	4	9	6
+10	Florence + The Machine - High As Hope			        304	4	3	8	8	5	5	3	9	9	5
+11	Kids See Ghosts - Kids See Ghosts				299	7	12	3	5	3	4	2	3	2	3
+12	Lady Gaga & Bradley Cooper - A Star Is Born			270	3	7	6	4	3	6	7	4	4	5
+13	Mariah Carey - Caution					        261	2	7	7	5	2	4	6	7	2	6
+14	Kim Petras - Turn Off The Light, Vol. 1				242	2	7	5	3	6	5	3	5	4	2
 15	Beach House - 7							233	4	8	3	4	6	3	2	1	3	1
-16	Christine And The Queens - Chris							231	6	6	5	3	1	4	3	2	4	4
-17	Charlie Puth - Voicenotes							227	2	2	7	6	6	3	4	6	3	0
-18	Rosalía - El Mal Querer							218	2	5	5	5	4	3	4	3	6	2
-19	Camila Cabello - Camila							209	2	2	3	9	2	4	5	7	3	5
+16	Christine And The Queens - Chris				231	6	6	5	3	1	4	3	2	4	4
+17	Charlie Puth - Voicenotes					227	2	2	7	6	6	3	4	6	3	0
+18	Rosalía - El Mal Querer						218	2	5	5	5	4	3	4	3	6	2
+19	Camila Cabello - Camila						209	2	2	3	9	2	4	5	7	3	5
 20	Let's Eat Grandma - I'm All Ears							208	3	2	5	6	6	2	5	2	2	2
 21	Kimbra - Primal Heart							193	5	6	2	4	2	2	3	1	2	4
 22	Cardi B - Invasion Of Privacy							182	1	3	2	1	3	6	13	4	4	2
